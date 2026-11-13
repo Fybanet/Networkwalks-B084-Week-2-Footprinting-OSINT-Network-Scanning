@@ -2,7 +2,7 @@
 
 Cybersecurity internship at Networkwalks. This repo holds my Week 2 practical work: gathering public information about a target domain (footprinting and OSINT) and scanning my own lab network.
 
-**Full write-up with screenshot evidence:** [`report/Week2_Penetration_Testing_Report_B084.pdf`](report/Week2_Penetration_Testing_Report_B084.pdf) 
+**Full write-up with screenshot evidence:** [report/Week2_Penetration_Testing_Report_B084.pdf](https://github.com/Fybanet/Networkwalks-B084-Week-2-Footprinting-OSINT-Network-Scanning/blob/main/Week2_Penetration_Testing_Report_B084.pdf)
 
 > **Disclaimer:** Everything here is for education only. I only tested the domain set as the practical target, used passive public sources for OSINT, and scanned a network I own. Don't run these tools against systems you don't own or have written permission to test.
 
